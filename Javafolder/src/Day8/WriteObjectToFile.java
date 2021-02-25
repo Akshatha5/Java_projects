@@ -18,6 +18,8 @@ public class WriteObjectToFile {
 			oos.close();
 			fos.close();
 			System.out.println("created");
+			System.out.println("done");
+			
 		
 		} catch (IOException e) {
 			
