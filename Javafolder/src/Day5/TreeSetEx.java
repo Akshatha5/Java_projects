@@ -10,6 +10,7 @@ public class TreeSetEx {
 		data.add("hyderabad");
 		data.add("bangalore");
 		System.out.println(data);
+		System.out.println("hiiiii akshatha");
 
 }
 }
